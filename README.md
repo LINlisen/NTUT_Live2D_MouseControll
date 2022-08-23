@@ -12,8 +12,8 @@
 * [GitHub](https://github.com/LINlisen/NTUT_Live2D_MouseControll_exe.git)
 下載後開啟Live2D_MouseControll.exe即可看到Demo的樣子
 
-##操作及注意事項
-###功能完成:
+## 操作及注意事項
+### 功能完成:
 1. 換人時,位置為前一位
 2. 換人時,scale為前一位
 3. 控制面板麥克風開關
@@ -21,13 +21,13 @@
 5. a~z熱鍵(滑鼠需指在模型上)
 6. 滑鼠scale中心
 
-###功能不建議：
+### 功能不建議：
 1. 1980*1080預設右側(螢幕大小不確定不建議)
 
-###功能無法達成:
+### 功能無法達成:
 1. 程式音量
 
-###錯誤部分：
+### 錯誤部分：
 1. 無接麥克風會有error，exe不會crash
 
 ## Licence
